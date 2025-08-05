@@ -13,6 +13,7 @@ docs/
 import os
 from pathlib import Path
 
+DOC_DIR = "docs"
 OUTPUT_FILE = "_sidebar1.md"
 CHAPTER_TITLES = [
     "Functions and Models",
@@ -29,14 +30,14 @@ CHAPTER_TITLES = [
 ]
 
 
-def _write_directory_structure(root_dir: str, output_file, indent: str = ""):
+def _write_directory_structure(root_dir, output_file, level: int = 0, index: int = 0):
+    """Recursively writes the directory structure to a text file.
+    :param root_dir: The root directory to traverse
+    :param output_file: The output file object
+    :param level: Current nesting level
+    :param index: Parent directory index
     """
-    递归写入目录结构到文本文件
-    :param root_dir: 要遍历的根目录
-    :param output_file: 输出的文件对象
-    :param indent: 当前层级的缩进字符串
-    """
-    # 列出当前目录内容（忽略访问错误）
+    # List the contents of the current directory (ignore access errors)
     try:
         entries = os.listdir(root_dir)
     except PermissionError:
@@ -46,7 +47,7 @@ def _write_directory_structure(root_dir: str, output_file, indent: str = ""):
         print(f"Directory not found: {root_dir}")
         return
 
-    # 按长度和字母顺序排序，目录优先
+    # Sort by length and alphabetical order, directories first
     entries.sort(
         key=lambda e: (
             not os.path.isdir(os.path.join(root_dir, e)),
@@ -54,28 +55,34 @@ def _write_directory_structure(root_dir: str, output_file, indent: str = ""):
         )
     )
 
-    for i, entry in enumerate(entries):
+    indent = "\t" * level  # Indent strings
+    for i, entry in enumerate(entries, start=1):
         full_path = os.path.join(root_dir, entry)
-        # is_last = i == len(entries) - 1
 
         if os.path.isdir(full_path):
-            # 写入目录项
-            output_file.write(f"{indent}- {entry}\n")
-            # 递归处理子目录，增加缩进
-            next_indent = indent + ("\t")
-            _write_directory_structure(full_path, output_file, next_indent)
+            if level == 0:
+                item = f"Ch {i}. {CHAPTER_TITLES[i - 1]}"
+            else:
+                item = f"Section {index}.{i}"
+            # Write directory entry
+            output_file.write(f"{indent}- {item}\n")
+            # Process subdirectories recursively with increased indentation
+            _write_directory_structure(full_path, output_file, level + 1, i)
         else:
-            # 写入文件项
-            output_file.write(f"{indent}- [{entry}]({full_path})\n")
+            # Write file entry
+            item = full_path[full_path.find(DOC_DIR) :]  # Get the relative path portion
+            item = item.replace("\\", "/")  # Replace backslashes with slashes
+            output_file.write(f"{indent}- [Problem {i}](/{item})\n")
 
 
 def generate_toc():
+    """Generate the table of contents and write it to the output file."""
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.write("- [Home](/README.md)\n")
-        # 获取当前脚本的绝对路径
+        # Get the absolute path of the current script
         root_path = Path(__file__).resolve().parent
-        docs_path = os.path.join(root_path, "docs")
-        # 开始递归遍历
+        docs_path = os.path.join(root_path, DOC_DIR)
+        # Start recursive traversal
         _write_directory_structure(docs_path, f)
 
 
