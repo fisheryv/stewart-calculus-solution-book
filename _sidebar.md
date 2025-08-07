@@ -4,6 +4,16 @@
         - [Problem 1](/docs/ch1/section1/Problem1.md)
         - [Problem 2](/docs/ch1/section1/Problem2.md)
         - [Problem 3](/docs/ch1/section1/Problem3.md)
+        - [Problem 4](/docs/ch1/section1/Problem4.md)
+        - [Problem 5](/docs/ch1/section1/Problem5.md)
+        - [Problem 6](/docs/ch1/section1/Problem6.md)
+        - [Problem 7-14](/docs/ch1/section1/Problem7-14.md)
+        - [Problem 15-18](/docs/ch1/section1/Problem15-18.md)
+        - [Problem 19](/docs/ch1/section1/Problem19.md)
+        - [Problem 20](/docs/ch1/section1/Problem20.md)
+        - [Problem 21](/docs/ch1/section1/Problem21.md)
+        - [Problem 22](/docs/ch1/section1/Problem22.md)
+        - [Problem 23](/docs/ch1/section1/Problem23.md)
     - Section 1.2
     - Section 1.3
     - Section 1.4
