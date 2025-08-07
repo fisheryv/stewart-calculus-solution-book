@@ -115,6 +115,6 @@ Determine whether the equation or table defines $y$ as a function of $x$.
     Because for each value of $x$, there is exactly only one value of $y$. 
 </div>
 
-> Tips
+> 💡Tips
 >
 > For some simple equations, we can directly substitute specific values of $x$ to check the value of $y$. If the value of $y$ is not unique, then we find a counterexample to assert that it is not a function.

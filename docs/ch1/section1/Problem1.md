@@ -25,7 +25,7 @@ For any valid input, functions $f$ and $g$ produce identical outputs; Therefore,
 
 </div>
 
-> Remark
+> ✏️Remark
 > 
 > In pure mathematics, function is defined as a **relation**, which is essentially a set of **ordered pairs**. Here is the formal definition:
 >
