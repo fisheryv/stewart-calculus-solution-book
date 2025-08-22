@@ -8,6 +8,10 @@ You put some ice cubes in a glass, fill the glass with cold water, and then let 
 <div class="alert alert-success" role="alert">
 <h4 class="alert-heading">Solution</h4>
 
+The temperature of ice cubes is $0 \degree C$, and the temperature of cold water is greater than zero but less than room temperature. When cold water is added to the ice cubes, the ice begins to melt, and the temperature of the water gradually decreases. When the ice has completely melted, the temperature of the water reaches its lowest point (the average temperature of ice and cold water). Subsequently, the water temperature gradually rises until it reaches room temperature.
 
+Therefore, the graph of the water temperature as a function of time is as follows: 
+
+![]()
 
 </div>

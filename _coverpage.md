@@ -4,7 +4,7 @@
 
 > A complete collection of problem solutions
 
-###### for Stewart Calculus: Early Transcendentals | 9th Edition
+###### for Stewart Calculus: Early Transcendentals | 9th Edition | Metric Version
 
 #### 🐟 💗 🎢
 
