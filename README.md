@@ -4,14 +4,14 @@
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
 <a href="https://discord.gg/XTW52Kt"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
-<a href="https://twitter.com/fisher" ><img src="https://img.shields.io/twitter/follow/fisheryv.svg?style=social" /> </a>
+<a href="https://x.com/fisher380912211" ><img src="https://img.shields.io/twitter/follow/fisheryv.svg?style=social" /> </a>
 </div>
 
 ## 👏 Welcome
 
 Welcome to the *Stewart Calculus Solution Book*. 
 
-This collection of problem solutions is compiled from the exercises I completed while self-studying [Stewart Calculus](https://www.stewartcalculus.com/), based on the `Metric Version | 9th Edition | Early Transcendentals`.
+This collection of problem solutions is compiled from the exercises I completed while self-studying [Stewart Calculus](https://www.stewartcalculus.com/), based on the `Early Transcendentals | 9th Edition | Metric Version`.
 
 <div align=center><img src="_media/cover.jpg" width=200/></div>
 
@@ -23,7 +23,7 @@ Although an official solutions manual is available, I think it has the following
 
 - **Inconvenient** – Both printed books and PDF documents are difficult to search and navigate
 
-Therefore, with the encouragement of teachers, I decided to maintain a community version of the solution book based on my own answers. The goal is to help calculus learners better understand knowledge points, while also pushing myself to complete all exercise solutions. This aligns with the Feynman Learning Method I enjoy – learning by teaching.
+Therefore, with the encouragement of teachers, I decided to maintain open source a community version of the solution book based on my own answers. The goal is to help calculus learners better understand knowledge points, while also pushing myself to complete all exercise solutions. This aligns with the Feynman Learning Method I enjoy – learning by teaching.
 
 > ⚠️**Warning:** 
 >
@@ -36,17 +36,24 @@ Therefore, with the encouragement of teachers, I decided to maintain a community
 
 The latest version is deployed on Github Pages. Open [https://fisheryv.github.io/stewart-calculus-solution-book/](https://fisheryv.github.io/stewart-calculus-solution-book/) in browser to access.
 
+<table>
+<tr>
+<td><img src="_media/home1.png"/></td>
+<td><img src="_media/home2.png"/></td>
+</tr>
+</table>
+
 ### Local
 
 1. **Set up environment**
 
     This project is maintained using [docsify](https://docsify.js.org/). To contribute code or run it locally, first install `node.js` and `docsify-cli`: 
 
-    1.1. Installing [Node.js](https://nodejs.org/)
+    1.1. **Installing [Node.js](https://nodejs.org/)**
 
     Please follow the instructions at [https://nodejs.org/en/download](https://nodejs.org/en/download) to install `Node.js` on your local device.
 
-    1.2. Installing [docsify](https://docsify.js.org/)
+    1.2. **Installing [docsify](https://docsify.js.org/)**
 
     Install `docsify` via the following command:
     ```bash
