@@ -15,7 +15,21 @@ The manager of a furniture factory finds that it costs $\$2200$ to manufacture $
 <div class="alert alert-success" role="alert">
 <h4 class="alert-heading">Solution</h4>
 
+1. Let the linear function is $y = ax + b$, then the slope $a$ is
 
+    $$
+    a = \frac{4800-2200}{300-100} = \frac{2600}{200} = 13
+    $$
+
+    Substitute $x=100, y=2200$ into the equation $y=13x+b$ and solve for $b=900$.
+
+    Therefore, the function is $y = 13x+900$.
+
+    ![](_media/graph11.png)
+
+2. The slope is $13$, which indicates that for each additional chair produced, the cost increases by $\$13$.
+
+3. The $y$-intercept is $900$, which represents the fixed cost, that is the cost incurred even if nothing is produced.
 
 </div>
 

@@ -13,7 +13,13 @@ the market, then the number $y$ of spaces that will be rented is given by the eq
 <div class="alert alert-success" role="alert">
 <h4 class="alert-heading">Solution</h4>
 
+1. ![](_media/graph3.png)
 
+2. The slope is $-4$, which indicates that for every additional dollar charged, $4$ fewer spaces are rented out.
+
+    The $y$-intercept is $200$, which represents the number of spaces rented when the fee is $0$. It can be interpreted as the total number of rental space available.
+
+    The $x$-intercept is $50$, which represents that when the fee reaches or exceeds this threshold value $50$, no spaces will be rented.
 
 </div>
 

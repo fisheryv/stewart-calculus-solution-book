@@ -25,7 +25,9 @@ The table shows average US retail residential prices of electricity from 2000 to
 <div class="alert alert-success" role="alert">
 <h4 class="alert-heading">Solution</h4>
 
+1. ![](_media/screenshots/26-08-2025%20Image020.jpg ':class=img-center')
 
+2. ![](_media/screenshots/26-08-2025%20Image021.jpg ':class=img-center')
 
 </div>
 

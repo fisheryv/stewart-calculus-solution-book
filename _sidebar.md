@@ -82,6 +82,14 @@
         - [💻 Problem 36](/docs/ch1/section2/Problem36.md)
         - [Problem 37](/docs/ch1/section2/Problem37.md)
     - Section 1.3
+        - [Problem 1](/docs/ch1/section3/Problem1.md)
+        - [Problem 2](/docs/ch1/section3/Problem2.md)
+        - [Problem 3](/docs/ch1/section3/Problem3.md)
+        - [Problem 4](/docs/ch1/section3/Problem4.md)
+        - [Problem 5](/docs/ch1/section3/Problem5.md)
+        - [Problem 6-7](/docs/ch1/section3/Problem6-7.md)
+        - [Problem 8](/docs/ch1/section3/Problem8.md)
+        - [Problem 9-26](/docs/ch1/section3/Problem9-26.md)
     - Section 1.4
     - Section 1.5
 - Ch 2. Limits and Differentiation

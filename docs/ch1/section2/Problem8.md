@@ -8,7 +8,9 @@ What do all members of the family of linear functions $f(x) = 1 + m(x + 3)$ have
 <div class="alert alert-success" role="alert">
 <h4 class="alert-heading">Solution</h4>
 
+When $x=-3$, $f(x) = 1$, so all members of the family of linear functions $f(x) = 1 + m(x + 3)$ rotate around $(-3, 1)$.
 
+![](_media/graph7.png)
 
 </div>
 

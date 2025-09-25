@@ -10,7 +10,9 @@ For each scatter plot, decide what type of function you might choose as a model 
 <div class="alert alert-success" role="alert">
 <h4 class="alert-heading">Solution</h4>
 
+- Figure (a) **power function** $y=kx^a$, where $a>1$
 
+- Figure (b) **power function** $y=kx^a$, where $a<0$
 
 </div>
 

@@ -20,7 +20,17 @@ Classify each function as a power function, root function, polynomial (state its
 <div class="alert alert-success" role="alert">
 <h4 class="alert-heading">Solution</h4>
 
+1. $\displaystyle f(x) = x^3 + 3x^2$ is a **polynomial** of degree $3$.
 
+2. $\displaystyle g(t) = \cos^2 t - \sin t$ is a **trigonometric function**.
+
+3. $\displaystyle r(t) = t^{\sqrt{3}}$ is a **power function**.
+
+4. $\displaystyle v(t) = 8^t$ is an **exponential function**.
+
+5. $\displaystyle y = \frac{\sqrt{x}}{x^2+1}$ is an **algebraic function**.
+
+6. $\displaystyle g(u) = \log_{10} u$ is a **logarithmic function**.
 
 </div>
 

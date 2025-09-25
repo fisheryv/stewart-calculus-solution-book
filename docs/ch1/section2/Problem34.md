@@ -1,7 +1,7 @@
 <div class="alert alert-warning" role="alert">
 <h4 class="alert-heading">💻 Problem 34</h4>
 
-The table shows the mean (average) distances d of the planets from the sun (taking the unit of measurement to be the distance from the earth to the sun) and their periods T (time of revolution in years).
+The table shows the mean (average) distances d of the planets from the sun (taking the unit of measurement to be the distance from the earth to the sun) and their periods $T$ (time of revolution in years).
 
 1. Fit a power model to the data.
 
@@ -23,7 +23,22 @@ The table shows the mean (average) distances d of the planets from the sun (taki
 <div class="alert alert-success" role="alert">
 <h4 class="alert-heading">Solution</h4>
 
+1. ![](_media/screenshots/26-08-2025%20Image022.jpg ':class=img-center')
 
+    $$
+    T = 1.00043 d^{1.49953} \approx 1 \cdot d^{1.5} = d^{\frac{3}{2}}
+    $$
+
+2. Kepler's third law can be expressed by formula
+
+    $$
+    \begin{align*}
+    T^2 &= d^3 \\
+    T &= d^{\frac{3}{2}}
+    \end{align*}
+    $$
+
+    This is very close to our model, so our model corroborate Kepler's Third Law.
 
 </div>
 

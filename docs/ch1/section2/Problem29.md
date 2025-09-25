@@ -32,7 +32,41 @@ The table shows (lifetime) peptic ulcer rates (per $100$ population) for various
 <div class="alert alert-success" role="alert">
 <h4 class="alert-heading">Solution</h4>
 
+1. ![](_media/screenshots/26-08-2025%20Image011.jpg)
 
+2. ![](_media/screenshots/26-08-2025%20Image012.jpg)
+
+    The linear model is $$ f(x)=-0.000105x+14.5214 $$
+
+3. ![](_media/screenshots/26-08-2025%20Image013.jpg)
+
+    The linear regression model is $$ f(x)=-0.0001x+13.9508 $$
+
+4. Substituting $25000$ to  $f(x)=-0.0001x+13.9508$ yields:
+
+    $$
+    f(25000)=-0.0001 \cdot 25000 + 13.9508 = 11.4508
+    $$
+
+    The ulcer rate for people with an income of $\$25,000$ is about $11.4508$.
+
+5. Substituting $80000$ to  $f(x)=-0.0001x+13.9508$ yields:
+
+    $$
+    f(80000)=-0.0001 \cdot 80000 + 13.9508 = 5.9508
+    $$
+
+    The ulcer rate for people with an income of $\$80,000$ is about $5.9508$.
+
+6. Substituting $200000$ to $f(x)=-0.0001x+13.9508$ yields:
+
+    $$
+    f(200000)=-0.0001 \cdot 200000 + 13.9508 = -6.0492 < 0
+    $$
+
+    This is obviously unreasonable. The detection rate of peptic ulcers per hundred people cannot be less than 0. Using an inverse proportional function for regression here would be better, as it ensures that the function value is always greater than 0.
+
+    ![](_media/screenshots/26-08-2025%20Image014.jpg)
 
 </div>
 

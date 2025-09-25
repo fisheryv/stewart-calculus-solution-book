@@ -22,7 +22,9 @@ Anthropologists use a linear model that relates human femur (thighbone) length t
 <div class="alert alert-success" role="alert">
 <h4 class="alert-heading">Solution</h4>
 
+1. ![](_media/screenshots/26-08-2025%20Image018.jpg ':class=img-center')
 
+2. ![](_media/screenshots/26-08-2025%20Image019.jpg ':class=img-center')
 
 </div>
 

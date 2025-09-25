@@ -23,7 +23,11 @@ When laboratory rats are exposed to asbestos fibers, some of them develop lung t
 <div class="alert alert-success" role="alert">
 <h4 class="alert-heading">Solution</h4>
 
+![](_media/screenshots/26-08-2025%20Image015.jpg ':class=img-center')
 
+| Linear Regression | Logistic Regression |
+| ----------------- | ------------------- |
+ |![](_media/screenshots/26-08-2025%20Image016.jpg) | ![](_media/screenshots/26-08-2025%20Image017.jpg) |
 
 </div>
 

@@ -22,7 +22,23 @@ the island in square kilometers.
 <div class="alert alert-success" role="alert">
 <h4 class="alert-heading">Solution</h4>
 
+1. ![](_media/screenshots/26-08-2025%20Image023.jpg ':class=img-center')
 
+    $$ 
+    N = 2.34347 A^{0.306584} 
+    $$
+
+2. Substituting $A = 753$ to the formular above yields:
+
+    $$
+    \begin{align*}
+    N &= 2.34347 \cdot 753^{0.306584} \\
+    &= 17.8582 \\
+    &\approx 18
+    \end{align*}
+    $$
+
+    So I estimate that there are about $18$ species of reptiles and amphibians on the Caribbean island of Dominica.
 
 </div>
 

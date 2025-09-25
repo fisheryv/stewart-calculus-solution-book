@@ -27,7 +27,9 @@ The table shows world average daily oil consumption from 1985 to 2015, measured 
 <div class="alert alert-success" role="alert">
 <h4 class="alert-heading">Solution</h4>
 
+1. ![](_media/screenshots/26-08-2025%20Image024.jpg ':class=img-center')
 
+2. ![](_media/screenshots/26-08-2025%20Image025.jpg ':class=img-center')
 
 </div>
 
