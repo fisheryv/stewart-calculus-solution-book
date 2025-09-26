@@ -6,11 +6,11 @@ Temperature readings $T$ (in $\degree C$) were recorded every two hours from mid
 <div style="text-align:center">
 <table style="display:inline">
     <tr>
-        <td style="background-color: #aaffea; font-weight: 600;"> t </td>
+        <td style="background-color: #b5f4fc; font-weight: 600;"> t </td>
         <td>0</td><td>2</td><td>4</td><td>6</td><td>8</td><td>10</td><td>12</td><td>14</td>
     <tr>
     <tr>
-        <td style="background-color: #aaffea; font-weight: 600;"> T </td>
+        <td style="background-color: #b5f4fc; font-weight: 600;"> T </td>
         <td>23</td><td>21</td><td>20</td><td>19</td><td>21</td><td>26</td><td>28</td><td>30</td>
     <tr>
 </table>
