@@ -30,7 +30,27 @@ Use the table to evaluate each expression.
 <div class="alert alert-success" role="alert">
 <h4 class="alert-heading">Solution</h4>
 
+**Problem 55**
 
+- $f(g(3)) = f(4) = 6$
+
+- $g(f(2)) = g(1) = 5$
+
+- $(f \circ g)(5) = f(g(5)) = f(3) = 5$
+
+- $(g \circ f)(5) = g(f(5)) = g(2) = 3$
+
+----
+
+**Problem 56**
+
+- $g(g(g(2))) = g(g(3)) = g(4) = 1$
+
+- $(f \circ f \circ f)(1) = f(f(f(1))) = f(f(3)) = f(5) = 2$
+
+- $(f \circ f \circ g)(1) = f(f(g(1))) = f(f(5)) = f(2) = 1$
+
+- $(g \circ f \circ g)(3) = g(f(g(3))) = g(f(4)) = g(6) = 2$
 
 </div>
 

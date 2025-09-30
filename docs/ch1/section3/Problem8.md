@@ -7,14 +7,20 @@
 
 </div>
 
-| Figure 4(a) | Figure 6 |
-| ----------- | -------- |
+| Figure 4(a)          | Figure 6             |
+| -------------------- | -------------------- |
 | ![](_media/fig7.png) | ![](_media/fig8.png) |
 
 <div class="alert alert-success" role="alert">
 <h4 class="alert-heading">Solution</h4>
 
+1. The graph of $y = 1 + \sqrt{x}$ can be obtained from the graph of $y = \sqrt{x}$ by shifting $1$ unit upward. 
 
+![](_media/graph18.png)
+
+2. The graph of $y = 5 \sin \pi x$ can be obtained from the graph of $y = \sin x$ by shrinking horizontally by a factor of $\pi$ and then stretching vertically by a factor of $5$.
+
+![](_media/graph19.png)
 
 </div>
 

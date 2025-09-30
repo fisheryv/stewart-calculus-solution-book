@@ -24,7 +24,21 @@ Suppose the graph of $f$ is given. Write equations for the graphs that are obtai
 <div class="alert alert-success" role="alert">
 <h4 class="alert-heading">Solution</h4>
 
+1. $y = f(x) + 3$
 
+2. $y = f(x) - 3$
+
+3. $y = f(x-3)$
+
+4. $y = f(x+3)$
+
+5. $y = -f(x)$
+
+6. $y = f(-x)$
+
+7. $y = 3f(x)$
+
+8. $y = \frac{1}{3}f(-x)$
 
 </div>
 

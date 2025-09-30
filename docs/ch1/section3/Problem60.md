@@ -12,7 +12,9 @@ A spherical balloon is being inflated and the radius of the balloon is increasin
 <div class="alert alert-success" role="alert">
 <h4 class="alert-heading">Solution</h4>
 
+1. $r = 2 t$
 
+2. The volume of sphere is $V = \frac{4}{3}\pi r^3$, so $A \circ r = \frac{4}{3}\pi (2t)^3 = \frac{32}{3}\pi t^3$, which means the volume of sphere at time $t$.
 
 </div>
 

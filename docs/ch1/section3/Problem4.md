@@ -18,7 +18,13 @@ The graph of $f$ is given. Draw the graphs of the following functions.
 <div class="alert alert-success" role="alert">
 <h4 class="alert-heading">Solution</h4>
 
+| 1. $y = f(x) - 3$       | 2. $y = f(x + 1)$       |
+| ----------------------- | ----------------------- |
+| ![](_media/graph10.png) | ![](_media/graph11.png) | 
 
+| 3. $y = \frac{1}{2} f(x)$ | 4. $y = -f(x)$          |
+| ------------------------- | ----------------------- |
+| ![](_media/graph12.png)   | ![](_media/graph13.png) | 
 
 </div>
 

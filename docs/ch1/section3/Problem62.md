@@ -14,7 +14,11 @@ An airplane is flying at a speed of $560$ km/h at an altitude of two kilometers 
 <div class="alert alert-success" role="alert">
 <h4 class="alert-heading">Solution</h4>
 
+1. $d = f(t) = 560t$
 
+2. According to the Pythagorean theorem, $s^2 = d^2+2^2$, thus $s = g(d) = \sqrt{d^2+4}$
+
+3. $(g \circ f)(t) = \sqrt{(560t)^2+4}$
 
 </div>
 

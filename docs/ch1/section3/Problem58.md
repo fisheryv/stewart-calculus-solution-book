@@ -10,7 +10,32 @@ Use the given graphs of $f$ and $g$ to estimate the value of $f(g(x))$ for $x = 
 <div class="alert alert-success" role="alert">
 <h4 class="alert-heading">Solution</h4>
 
+<table>
+<tr>
+<td>
 
+| $x$ | $g(x)$ | $f(g(x))$ |
+| --- | ------ | --------- |
+| -5  | -0.2   | -3.9      |
+| -4  |  1.1   | -3.3      |
+| -3  |  2.2   | -1.6      |
+| -2  |  2.8   | -0.6      |
+| -1  |    3   | -0.2      |
+|  0  |  2.8   | -0.6      |
+|  1  |  2.2   | -1.6      |
+|  2  |  1.1   | -3.3      |
+|  3  | -0.2   | -3.9      |
+|  4  |   -2   | -2.1      |
+|  5  | -4.1   |  1.9      |
+
+</td>
+<td>
+
+![](_media/graph30.png)
+
+</td>
+</tr>
+</table>
 
 </div>
 

@@ -20,7 +20,15 @@ The graph of $y = f(x)$ is given. Match each equation with its graph and give re
 <div class="alert alert-success" role="alert">
 <h4 class="alert-heading">Solution</h4>
 
+1. Shift $4$ units to the right $\implies$ ③
 
+2. Shift $3$ units upward $\implies$ ①
+
+3. Shrink vertically by a factor of $3$ $\implies$ ④
+
+4. Shift $4$ units to the left and reflect about the $x$-axis $\implies$ ⑤
+
+5. Shift $6$ units to the left and stretch vertically by a factor of $2$ $\implies$ ②
 
 </div>
 

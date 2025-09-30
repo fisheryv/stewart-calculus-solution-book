@@ -21,6 +21,65 @@ Express the function in the form $f \circ g$.
 <div class="alert alert-success" role="alert">
 <h4 class="alert-heading">Solution</h4>
 
+**Problem 45**
+
+$$
+F(x) = \underbrace{(\overbrace{2x + x^2}^{g(x)})^4}_{f(x)}
+$$
+
+Therefore, $f(x) = x^4$ and $g(x)=2x + x^2$.
+
+----
+
+**Problem 46**
+
+$$
+F(x) = \cos^2x = \underbrace{(\overbrace{\cos x}^{g(x)})^2}_{f(x)}
+$$
+
+Therefore, $f(x) = x^2$ and $g(x)=\cos x$.
+
+----
+
+**Problem 47**
+
+$$
+F(x) = \underbrace{\frac{\overbrace{\sqrt[3]{x}}^{g(x)}}{1+\underbrace{\sqrt[3]{x}}_{g(x)}}}_{f(x)}
+$$
+
+Therefore, $f(x) = \frac{x}{1+x}$ and $g(x)=\sqrt[3]{x}$.
+
+----
+
+**Problem 48**
+
+$$
+G(x) = \underbrace{\sqrt[3]{\frac{x}{1+x}}}_{f(x)} \Big\rbrace \small{g(x)}
+$$
+
+Therefore, $f(x) = \sqrt[3]{x}$ and $g(x)=\frac{x}{1+x}$.
+
+----
+
+**Problem 49**
+
+$$
+v(t) = \underbrace{\sec(\overbrace{t^2}^{g(x)})\tan(\overbrace{t^2}^{g(x)})}_{f(x)}
+$$
+
+Therefore, $f(t) = \sec t \tan t$ and $g(t)=t^2$.
+
+----
+
+**Problem 50**
+
+$$
+H(x) = \underbrace{\sqrt{1+\sqrt{x}}}_{f(x)} \big\rbrace \small{g(x)}
+$$
+
+Therefore, $f(x) = \sqrt{1+x}$ and $g(x)=\sqrt{x}$.
+
+!> Be careful! We cannot define $f(x) = \textcolor{red}{\sqrt{x}}$ and $g(x)=1+\textcolor{red}{\sqrt{x}}$, because this will lead to **circular references**.
 
 
 </div>
