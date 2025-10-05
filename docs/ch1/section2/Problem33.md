@@ -14,7 +14,7 @@ The table shows world average daily oil consumption from 1985 to 2015, measured 
 |  Years since 2000 | Thousands of barrels of oil per day |
 | ----------------: | ----------------------------------: |
 | 0                 | 60,083                              |
-| 5                 | 66,533                              | 
+| 5                 | 66,533                              |
 | 10                | 70,099                              |
 | 15                | 76,784                              |
 | 20                | 84,077                              |
