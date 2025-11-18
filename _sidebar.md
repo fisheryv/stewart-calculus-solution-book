@@ -1,4 +1,5 @@
 - [🏠 Home](/README.md)
+- [Exercises with Issue](/docs/exercises-with-issue/collection.md)
 - Ch 1. Functions and Models
     - Section 1.1
         - [Problem 1](/docs/ch1/section1/Problem1.md)
@@ -54,7 +55,7 @@
         - [Problem 7](/docs/ch1/section2/Problem7.md)
         - [Problem 8](/docs/ch1/section2/Problem8.md)
         - [Problem 9](/docs/ch1/section2/Problem9.md)
-        - [📈 Problem 10](/docs/ch1/section2/Problem10.md)
+        - [Problem 10](/docs/ch1/section2/Problem10.md)
         - [Problem 11-12](/docs/ch1/section2/Problem11-12.md)
         - [Problem 13](/docs/ch1/section2/Problem13.md)
         - [Problem 14](/docs/ch1/section2/Problem14.md)
@@ -72,14 +73,14 @@
         - [Problem 26](/docs/ch1/section2/Problem26.md)
         - [Problem 27](/docs/ch1/section2/Problem27.md)
         - [Problem 28](/docs/ch1/section2/Problem28.md)
-        - [💻 Problem 29](/docs/ch1/section2/Problem29.md)
-        - [💻 Problem 30](/docs/ch1/section2/Problem30.md)
-        - [💻 Problem 31](/docs/ch1/section2/Problem31.md)
-        - [💻 Problem 32](/docs/ch1/section2/Problem32.md)
-        - [💻 Problem 33](/docs/ch1/section2/Problem33.md)
-        - [💻 Problem 34](/docs/ch1/section2/Problem34.md)
+        - [Problem 29](/docs/ch1/section2/Problem29.md)
+        - [Problem 30](/docs/ch1/section2/Problem30.md)
+        - [Problem 31](/docs/ch1/section2/Problem31.md)
+        - [Problem 32](/docs/ch1/section2/Problem32.md)
+        - [Problem 33](/docs/ch1/section2/Problem33.md)
+        - [Problem 34](/docs/ch1/section2/Problem34.md)
         - [Problem 35](/docs/ch1/section2/Problem35.md)
-        - [💻 Problem 36](/docs/ch1/section2/Problem36.md)
+        - [Problem 36](/docs/ch1/section2/Problem36.md)
         - [Problem 37](/docs/ch1/section2/Problem37.md)
     - Section 1.3
         - [Problem 1](/docs/ch1/section3/Problem1.md)
@@ -122,7 +123,7 @@
         - [Problem 2](/docs/ch1/section4/Problem2.md)
         - [Problem 3](/docs/ch1/section4/Problem3.md)
         - [Problem 4](/docs/ch1/section4/Problem4.md)
-        - [📈 Problem 5-8](/docs/ch1/section4/Problem5-8.md)
+        - [Problem 5-8](/docs/ch1/section4/Problem5-8.md)
         - [Problem 9-14](/docs/ch1/section4/Problem9-14.md)
         - [Problem 15](/docs/ch1/section4/Problem15.md)
         - [Problem 16](/docs/ch1/section4/Problem16.md)
@@ -132,18 +133,18 @@
         - [Problem 21](/docs/ch1/section4/Problem21.md)
         - [Problem 22](/docs/ch1/section4/Problem22.md)
         - [Problem 23](/docs/ch1/section4/Problem23.md)
-        - [📈 Problem 24](/docs/ch1/section4/Problem24.md)
-        - [📈 Problem 25](/docs/ch1/section4/Problem25.md)
-        - [📈 Problem 26](/docs/ch1/section4/Problem26.md)
-        - [💻 Problem 27](/docs/ch1/section4/Problem27.md)
-        - [💻 Problem 28](/docs/ch1/section4/Problem28.md)
+        - [Problem 24](/docs/ch1/section4/Problem24.md)
+        - [Problem 25](/docs/ch1/section4/Problem25.md)
+        - [Problem 26](/docs/ch1/section4/Problem26.md)
+        - [Problem 27](/docs/ch1/section4/Problem27.md)
+        - [Problem 28](/docs/ch1/section4/Problem28.md)
         - [Problem 29](/docs/ch1/section4/Problem29.md)
         - [Problem 30](/docs/ch1/section4/Problem30.md)
         - [Problem 31](/docs/ch1/section4/Problem31.md)
         - [Problem 32](/docs/ch1/section4/Problem32.md)
-        - [📈 Problem 33](/docs/ch1/section4/Problem33.md)
-        - [📈 Problem 34](/docs/ch1/section4/Problem34.md)
-        - [📈 Problem 35](/docs/ch1/section4/Problem35.md)
+        - [Problem 33](/docs/ch1/section4/Problem33.md)
+        - [Problem 34](/docs/ch1/section4/Problem34.md)
+        - [Problem 35](/docs/ch1/section4/Problem35.md)
     - Section 1.5
         - [Problem 1](/docs/ch1/section5/Problem1.md)
         - [Problem 2](/docs/ch1/section5/Problem2.md)
@@ -157,7 +158,7 @@
         - [Problem 21](/docs/ch1/section5/Problem21.md)
         - [Problem 22](/docs/ch1/section5/Problem22.md)
         - [Problem 23-30](/docs/ch1/section5/Problem23-30.md)
-        - [📈 Problem 31-32](/docs/ch1/section5/Problem31-32.md)
+        - [Problem 31-32](/docs/ch1/section5/Problem31-32.md)
         - [Problem 33-34](/docs/ch1/section5/Problem33-34.md)
         - [Problem 35](/docs/ch1/section5/Problem35.md)
         - [Problem 36](/docs/ch1/section5/Problem36.md)
@@ -167,25 +168,25 @@
         - [Problem 43-44](/docs/ch1/section5/Problem43-44.md)
         - [Problem 45-46](/docs/ch1/section5/Problem45-46.md)
         - [Problem 47-48](/docs/ch1/section5/Problem47-48.md)
-        - [📈 Problem 49-50](/docs/ch1/section5/Problem49-50.md)
+        - [Problem 49-50](/docs/ch1/section5/Problem49-50.md)
         - [Problem 51](/docs/ch1/section5/Problem51.md)
-        - [📈 Problem 52](/docs/ch1/section5/Problem52.md)
+        - [Problem 52](/docs/ch1/section5/Problem52.md)
         - [Problem 53-54](/docs/ch1/section5/Problem53-54.md)
         - [Problem 55-56](/docs/ch1/section5/Problem55-56.md)
         - [Problem 57-60](/docs/ch1/section5/Problem57-60.md)
         - [Problem 61-62](/docs/ch1/section5/Problem61-62.md)
         - [Problem 63](/docs/ch1/section5/Problem63.md)
         - [Problem 64](/docs/ch1/section5/Problem64.md)
-        - [💻 Problem 65](/docs/ch1/section5/Problem65.md)
-        - [💻 Problem 66](/docs/ch1/section5/Problem66.md)
+        - [Problem 65](/docs/ch1/section5/Problem65.md)
+        - [Problem 66](/docs/ch1/section5/Problem66.md)
         - [Problem 67](/docs/ch1/section5/Problem67.md)
         - [Problem 68](/docs/ch1/section5/Problem68.md)
         - [Problem 69-74](/docs/ch1/section5/Problem69-74.md)
         - [Problem 75](/docs/ch1/section5/Problem75.md)
         - [Problem 76-78](/docs/ch1/section5/Problem76-78.md)
-        - [📈 Problem 79-80](/docs/ch1/section5/Problem79-80.md)
+        - [Problem 79-80](/docs/ch1/section5/Problem79-80.md)
         - [Problem 81](/docs/ch1/section5/Problem81.md)
-        - [📈 Problem 82](/docs/ch1/section5/Problem82.md)
+        - [Problem 82](/docs/ch1/section5/Problem82.md)
         - [Problem 83](/docs/ch1/section5/Problem83.md)
     - Review
         - CONCEPT CHECK
@@ -346,4 +347,62 @@
     - Section 9.5
     - Section 9.6
 - Ch 10. Parametric Equations and Polar Coordinates
-- Ch 11. Infinite Sequences and Series
+    - Section 10.1
+    - Section 10.2
+    - Section 10.3
+    - Section 10.4
+    - Section 10.5
+    - Section 10.6
+- Ch 11. Sequences, Series, and Power Series
+    - Section 11.1
+    - Section 11.2
+    - Section 11.3
+    - Section 11.4
+    - Section 11.5
+    - Section 11.6
+    - Section 11.7
+    - Section 11.8
+    - Section 11.9
+    - Section 11.10
+    - Section 11.11
+- Ch 12. Vectors and the Geometry of Space
+    - Section 12.1
+    - Section 12.2
+    - Section 12.3
+    - Section 12.4
+    - Section 12.5
+    - Section 12.6
+- Ch 13. Vector Functions
+    - Section 13.1
+    - Section 13.2
+    - Section 13.3
+    - Section 13.4
+- Ch 14. Partial Derivatives
+    - Section 14.1
+    - Section 14.2
+    - Section 14.3
+    - Section 14.4
+    - Section 14.5
+    - Section 14.6
+    - Section 14.7
+    - Section 14.8
+- Ch 15. Multiple Integrals
+    - Section 15.1
+    - Section 15.2
+    - Section 15.3
+    - Section 15.4
+    - Section 15.5
+    - Section 15.6
+    - Section 15.7
+    - Section 15.8
+    - Section 15.9
+- Ch 16. Vector Calculus
+    - Section 16.1
+    - Section 16.2
+    - Section 16.3
+    - Section 16.4
+    - Section 16.5
+    - Section 16.6
+    - Section 16.7
+    - Section 16.8
+    - Section 16.9

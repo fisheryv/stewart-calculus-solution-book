@@ -101,6 +101,10 @@ This project is actively maintained, and contributions of any kind are welcome, 
 - Adding alternative solutions
 - Answering open questions
 
+> **Collection of Exercises with Issue**
+>
+> In the process of solving problems, I encounter questions that I consider problematic. I collect and organize them into a [problem set](/docs/exercises-with-issue/collection.md), and welcome everyone to review them and provide correct solutions.
+
 
 ### How to Contribute
 
