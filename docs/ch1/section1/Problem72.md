@@ -18,7 +18,7 @@ The area of the window is equal to the area of the rectangular part plus the are
 
 $$
 \begin{align*}
-A &= xh + \frac{1}{2}\pi\Big(\frac{x}{2}\Big)^2 \\
+A &= xh + \frac{1}{2}\pi\left(\frac{x}{2}\right)^2 \\
 &= x(5-\frac{2+\pi}{4}x) + \frac{\pi x^2}{8} \\
 &= 5x-\frac{x^2}{2}-\frac{\pi x^2}{4} + \frac{\pi x^2}{8} \\
 &= 5x-\frac{x^2}{2}-\frac{\pi x^2}{8} \\

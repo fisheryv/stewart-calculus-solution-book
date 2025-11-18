@@ -25,7 +25,7 @@ Determine the infinite limit.
 
 39. $\displaystyle \lim_{x \to 0} (\ln x^2-x^{-2})$
 
-40. $\displaystyle \lim_{x \to 0^{+}} \Big(\frac{1}{x} - \ln x \Big)$
+40. $\displaystyle \lim_{x \to 0^{+}} \left(\frac{1}{x} - \ln x \right)$
 
 </div>
 

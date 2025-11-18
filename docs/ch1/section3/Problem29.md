@@ -12,15 +12,15 @@ We find the function $D(t)$ by applying appropriate transformations to the funct
 
 First, since the natural period of oscillation is about $12$ hours, we scale the function period from $2\pi$ to $12$
 
-$$D(t) = \cos \Big(\frac{2\pi}{12} t\Big) = \cos \Big(\frac{\pi}{6}t\Big) $$
+$$D(t) = \cos \left(\frac{2\pi}{12} t\right) = \cos \left(\frac{\pi}{6}t\right) $$
 
 Then, since the low tide is about $2.0$ m and the high tide is about $12.0$ m, we know the amplitude is $\frac{12-2}{2} = 5$ and the average depth is $\frac{12+2}{2} = 7$. Stretching vertically by a factor of $5$ and shifting $7$ units upward yields
 
-$$D(t) = 5\cos \Big(\frac{\pi}{6}t\Big)+7$$
+$$D(t) = 5\cos \left(\frac{\pi}{6}t\right)+7$$
 
 Finally, since high tide occurred at 6:45 am ($6.75$ hours after midnight), we can shift $6.75$ units to the right
 
-$$D(t) = 5\cos \Big(\frac{\pi}{6}(t-6.75)\Big)+7$$
+$$D(t) = 5\cos \left(\frac{\pi}{6}(t-6.75)\right)+7$$
 
 </div>
 

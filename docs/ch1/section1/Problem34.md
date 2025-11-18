@@ -18,7 +18,7 @@ If $g(x) = \frac{x}{\sqrt{x+1}}$, find $g(0)$, $g(3)$, $5g(a)$, $\frac{1}{2}g(4a
 
 - $\displaystyle g(a^2) = \frac{a^2}{\sqrt{a^2+1}}$
 
-- $\displaystyle [g(a)]^2 = \Bigg(\frac{a}{\sqrt{a+1}}\Bigg)^2 = \frac{a^2}{a+1}$
+- $\displaystyle [g(a)]^2 = \left(\frac{a}{\sqrt{a+1}}\right)^2 = \frac{a^2}{a+1}$
 
 - $\displaystyle g(a+h) = \frac{a+h}{\sqrt{a+h+1}}$
 

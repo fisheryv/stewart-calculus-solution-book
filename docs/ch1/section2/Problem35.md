@@ -22,7 +22,7 @@ It makes sense that the larger the area of a region, the larger the number of sp
     \begin{align*}
     4 &= 0.7A^{0.3} \\
     A^{0.3} &= \frac{40}{7} \\
-    A &= \sqrt[3]{\Big(\frac{40}{7}\Big)^{10}} \\
+    A &= \sqrt[3]{\left(\frac{40}{7}\right)^{10}} \\
     A &\approx 334 \ m^2
     \end{align*}
     $$

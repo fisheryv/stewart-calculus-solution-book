@@ -16,7 +16,7 @@ After alcohol is fully absorbed into the body, it is metabolized. Suppose that a
 
 1. The initial value is $0.14$, and it halves every $1.5$ hours. This process can be modeled as follows:
 
-    $$f(t) = 0.14 \cdot \Big(\frac{1}{2}\Big)^{\frac{t}{1.5}}$$
+    $$f(t) = 0.14 \cdot \left(\frac{1}{2}\right)^{\frac{t}{1.5}}$$
 
 2. The graph of the function above is shown below.
 

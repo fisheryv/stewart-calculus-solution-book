@@ -37,7 +37,7 @@ $$
 f \circ g \circ h &= f\Big(g\big(h(x)\big)\Big) \\
 &= f\Big(g\big(\sqrt{x}\big)\Big) \\
 &= f\Big(2^{\sqrt{x}}\Big) \\
-&= |2^{\sqrt{x}}-4|
+&= \left|2^{\sqrt{x}}-4 \right|
 \end{aligned}
 $$
 
@@ -49,7 +49,8 @@ $$
 \begin{aligned}
 f \circ g \circ h &= f\Big(g\big(h(x)\big)\Big) \\
 &= f\Big(g\big(x^3+2\big)\Big) \\
-&= f\Big(\big(x^3+2\big)^2\Big) = f\Big(x^6+4x^3+4\Big)\\
+&= f\Big(\big(x^3+2\big)^2\Big) \\
+&= f\Big(x^6+4x^3+4\Big)\\
 &= \sqrt{x^6+4x^3+4-3} = \sqrt{x^6+4x^3+1}
 \end{aligned}
 $$
@@ -62,8 +63,8 @@ $$
 \begin{aligned}
 f \circ g \circ h &= f\Big(g\big(h(x)\big)\Big) \\
 &= f\Big(g\big(\sqrt[3]{x}\big)\Big) \\
-&= f\Big(\frac{\sqrt[3]{x}}{\sqrt[3]{x}-1}\Big) \\
-&= \tan \Big(\frac{\sqrt[3]{x}}{\sqrt[3]{x}-1}\Big)
+&= f\left(\frac{\sqrt[3]{x}}{\sqrt[3]{x}-1}\right) \\
+&= \tan \left(\frac{\sqrt[3]{x}}{\sqrt[3]{x}-1}\right)
 \end{aligned}
 $$
 

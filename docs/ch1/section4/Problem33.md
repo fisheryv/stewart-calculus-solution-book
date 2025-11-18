@@ -22,7 +22,9 @@ $$
 \begin{aligned}
 f(-x) &= \frac{1-e^{1/-x}}{1+e^{1/-x}} =\frac{1-\frac{1}{\sqrt[x]{e}}}{1+\frac{1}{\sqrt[x]{e}}} \\
 &=\frac{\frac{\sqrt[x]{e}-1}{\sqrt[x]{e}}}{\frac{\sqrt[x]{e}+1}{\sqrt[x]{e}}} = \frac{\sqrt[x]{e}-1}{\sqrt[x]{e}+1}\\ 
-&=-\frac{1-\sqrt[x]{e}}{1+\sqrt[x]{e}} = -\frac{1-e^{1/x}}{1+e^{1/x}} = -f(x)
+&=-\frac{1-\sqrt[x]{e}}{1+\sqrt[x]{e}} \\
+&=-\frac{1-e^{1/x}}{1+e^{1/x}} \\
+&=-f(x)
 \end{aligned}
 $$
 

@@ -33,7 +33,7 @@ Graph the function by hand, not by plotting points, but by starting with the gra
 
 23. $\displaystyle y = 3 \sin \frac{1}{2} x + 1$
 
-24. $\displaystyle y = \frac{1}{4} \tan \Big(x - \frac{\pi}{4}\Big)$
+24. $\displaystyle y = \frac{1}{4} \tan \left(x - \frac{\pi}{4}\right)$
 
 25. $\displaystyle y = | \cos \pi x |$ 
 
@@ -223,9 +223,9 @@ The graph of $y = 3 \sin \frac{1}{2} x + 1$ can be obtained from the graph of $y
 
 **Problem 24**
 
-The graph of $y = \frac{1}{4} \tan \Big(x - \frac{\pi}{4}\Big)$ can be obtained from the graph of $y = \tan x$ by shifting $\frac{\pi}{4}$ unit to the right and shrinking vertically by a factor of $4$. 
+The graph of $y = \frac{1}{4} \tan \left(x - \frac{\pi}{4}\right)$ can be obtained from the graph of $y = \tan x$ by shifting $\frac{\pi}{4}$ unit to the right and shrinking vertically by a factor of $4$. 
 
-| $y = \tan x$              |                              | $y = \tan \Big(x - \frac{\pi}{4}\Big)$ |        | $y = \frac{1}{4} \tan \Big(x - \frac{\pi}{4}\Big)$ |
+| $y = \tan x$              |                              | $y = \tan \left(x - \frac{\pi}{4}\right)$ |        | $y = \frac{1}{4} \tan \left(x - \frac{\pi}{4}\right)$ |
 | ------------------------- | :--------------------------: | ------------------------- | :----: | ----------- |
 | ![](_media/graph28-0.png) |  $\rightarrow \frac{\pi}{4} \\ \implies$    | ![](_media/graph28-1.png) | $_\uparrow^\downarrow 4 \\ \implies$    | ![](_media/graph28-2.png) |
 

@@ -18,7 +18,7 @@ FIGURE 9. Graph of the length of daylight from March 21 through December 21 at v
 $30 \degree N$ corresponds to the red curve in the Figure 9. Its amplitude is $\frac{14-10}{2} = 2$, so the function will be
 
 $$
-L(t) = 12 + 2\sin\Bigg[\frac{2\pi}{365}(t-80)\Bigg]
+L(t) = 12 + 2\sin\left[\frac{2\pi}{365}(t-80)\right]
 $$
 
 where $t$ represents the day of the year. 
@@ -26,7 +26,7 @@ where $t$ represents the day of the year.
 March 31 is the $90$th day of the year, so the model gives
 
 $$
-L(90) = 12+2\sin\Bigg[\frac{2\pi}{365}(90-80)\Bigg] \approx 12+2 \cdot 0.1713 = 12.3426
+L(90) = 12+2\sin\left[\frac{2\pi}{365}(90-80)\right] \approx 12+2 \cdot 0.1713 = 12.3426
 $$
 
 We know that the sun rises at 5:51 am and sets at 6:18 pm in New Orleans on March 31, that is the daylight in New Orleans on March 31 is $12.45$ hours. Then the error rate between the model output and the actual is

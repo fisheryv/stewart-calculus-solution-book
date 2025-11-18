@@ -12,7 +12,7 @@ Use the laws of logarithms to expand each expression.
 </div>
 <div class="col-6">
 
-$\text{(b)\ } \ln \Big(\frac{x^4}{\sqrt{x^2-4}}\Big)$
+$\text{(b)\ } \ln \left(\frac{x^4}{\sqrt{x^2-4}}\right)$
 
 </div>
 </div>
@@ -27,7 +27,7 @@ $\text{(b)\ } \ln \Big(\frac{x^4}{\sqrt{x^2-4}}\Big)$
 </div>
 <div class="col-6">
 
-$\text{(b)\ } \log_2 \Big[(x^3+1)\sqrt[3]{(x-3)^2}\Big]$
+$\text{(b)\ } \log_2 \left[(x^3+1)\sqrt[3]{(x-3)^2}\right]$
 
 </div>
 </div>

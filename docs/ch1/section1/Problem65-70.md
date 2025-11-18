@@ -55,7 +55,7 @@ $$
 
 Substituting $b$ into the perimeter formula yields
 
-$$ P = 2(a+b) = 2\Big(a+\frac{16}{a}\Big) = \frac{2a^2+32}{a} \quad(a>0) $$
+$$ P = 2(a+b) = 2\left(a+\frac{16}{a}\right) = \frac{2a^2+32}{a} \quad(a>0) $$
 
 Therefore, the perimeter of the rectangle is $\displaystyle P = \frac{2a^2+32}{a} \quad(a>0)$.
 

@@ -12,15 +12,15 @@ Because the brightness of Delta Cephei is periodic, we can get its brightness fu
 
 First, since the maximum brightness period is 5.4 days, we scale the function period from $2\pi$ to $5.4$
 
-$$ B(t) = \sin \Big(\frac{2\pi t}{5.4} \Big) $$
+$$ B(t) = \sin \left(\frac{2\pi t}{5.4} \right) $$
 
 Then, since the brightness varies by $\pm 0.35$ magnitude, we reduce the amplitude from $1$ to $0.35$
 
-$$ B(t) = 0.35 \sin \Big(\frac{2\pi t}{5.4} \Big)$$
+$$ B(t) = 0.35 \sin \left(\frac{2\pi t}{5.4} \right)$$
 
 Finally, since the average brightness is $4.0$, we shift the graph of the function $4$ units upward.
 
-$$ B(t) = 0.35 \sin \Big(\frac{2\pi t}{5.4} \Big) + 4.0$$
+$$ B(t) = 0.35 \sin \left(\frac{2\pi t}{5.4} \right) + 4.0$$
 
 </div>
 
