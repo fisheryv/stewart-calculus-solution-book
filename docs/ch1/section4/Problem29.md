@@ -20,14 +20,14 @@ $$
 f(t) = 500 \cdot 2^{t/0.5} = 500 \cdot 2^{2t}
 $$
 
-1. When $t=3$, $f(3) = 500 \cdot 2^6 = 32000$.
+1. It doubles every half hour, and increases $6$-fold in $3$ hours. The quantity after $3$ hours is $500 \cdot 2^6 = 32000$.
 
-2. 
+2. $f(t) = 500 \cdot 2^{t/0.5} = 500 \cdot 2^{2t} $
 
 3. $40$ minutes are $\frac{2}{3}$ hour, so 
     
     $$
-    \f(\frac{2}{3}) = 500 \cdot 2^{2 \cdot \frac{2}{3}} = 500 \cdot 2^{\frac{4}{3}}  \approx 1260
+    f\left(\frac{2}{3}\right) = 500 \cdot 2^{2 \cdot \frac{2}{3}} = 500 \cdot 2^{\frac{4}{3}}  \approx 1260
     $$
 
 4. The graph of the function in question (2) is shown below.

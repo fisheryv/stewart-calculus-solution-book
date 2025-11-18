@@ -8,8 +8,12 @@ Compare the functions $f(x) = x^5$ and $g(x) = 5^x$ by graphing both functions i
 <div class="alert alert-success" role="alert">
 <h4 class="alert-heading">Solution</h4>
 
-![](_media/screenshots/10-02-2025%20Image001.jpg ':class=img-center')
+There are two intersection points, as shown in the figure below.
 
-![](_media/screenshots/10-02-2025%20Image002.jpg ':class=img-center')
+|                                                   |                                                   |
+| :-----------------------------------------------: | :-----------------------------------------------: |
+| ![](_media/screenshots/10-02-2025%20Image001.jpg) | ![](_media/screenshots/10-02-2025%20Image002.jpg) |
+
+The figure above shows that when $x > 5$, $g(x)$ grows more rapidly than $f(x)$.
 
 </div>

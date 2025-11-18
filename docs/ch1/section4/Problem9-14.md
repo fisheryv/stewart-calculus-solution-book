@@ -20,37 +20,65 @@ Make a rough sketch by hand of the graph of the function. Use the graphs given i
 <div class="alert alert-success" role="alert">
 <h4 class="alert-heading">Solution</h4>
 
-**Problem 5**
+**Problem 9**
 
-The graph of every exponential function passes through the point $(0, 1)$. 
+The graph of $y = 3^x+1$ can be obtained from the graph of $y = 3^x$ by shifting $1$ unit upward. 
 
-For exponential functions with a base greater than $1$, they are monotonically increasing. Moreover, for the same exponent value, a larger base results in a steeper graph, while a smaller base results in a smoother graph.
+| $y = 3^x$                 |                              | $y = 3^x + 1$               |
+| ------------------------- | :--------------------------: | --------------------------- |
+| ![](_media/graph9-0.png)  |  $\uparrow 1 \\ \implies$    | ![](_media/graph9-1.png)    | 
 
-![](_media/screenshots/09-30-2025%20Image003.jpg ':class=img-center')
-
-----
-
-**Problem 6**
-
-Exponential functions $y=a^x$ and $y=a^{-x}$ are symmetric about the $y$-axis.
-
-![](_media/screenshots/09-30-2025%20Image004.jpg ':class=img-center')
 
 ----
 
-**Problem 7**
+**Problem 10**
 
-Since $\frac{1}{a} = a^{-1}$, exponential functions $y=(\frac{1}{a})^x = a^{-x}$. Therefore,  exponential functions with the same exponent and reciprocal bases are symmetric about the $y$-axis.
+The graph of $y = 2(\frac{1}{2})^x - 3$ can be obtained from the graph of $y = (\frac{1}{2})^x$ by stretch vertically by a factor of $2$ and then shifting $3$ unit downward.
 
-![](_media/screenshots/09-30-2025%20Image005.jpg ':class=img-center')
+| $y = (\frac{1}{2})^x$     |                              | $y = 2(\frac{1}{2})^x$    |        | $y = 2(\frac{1}{2})^x - 3$        |
+| ------------------------- | :--------------------------: | ------------------------- | :----: | ----------- |
+| ![](_media/graph10-0.png) |  $\updownarrow 2  \\ \implies$  | ![](_media/graph10-1.png) | $ \downarrow 3 \\ \implies$ | ![](_media/graph10-2.png)    |
 
 ----
 
-**Problem 8**
+**Problem 11**
 
-For exponential functions with a base less than $1$ but greater than $0$, they are monotonically decreasing. Moreover, for the same exponent value, a larger base results in a smoother graph, while a smaller base results in a steeper graph.
+The graph of $y = -e^{-x}$ can be obtained from the graph of $y = e^{x}$ by reflecting about the $y$-axis and then reflecting about the $x$-axis.
 
-![](_media/screenshots/09-30-2025%20Image006.jpg ':class=img-center')
+| $y = e^x$     |                              | $y = e^{-x}$    |        | $y = -e^{-x}$        |
+| ------------------------- | :--------------------------: | ------------------------- | :----: | ----------- |
+| ![](_media/graph11-0.png) |  $\leftrightharpoons \\ \implies$  | ![](_media/graph11-1.png) | $ \downharpoonleft\upharpoonright \\ \implies$ | ![](_media/graph11-2.png)    |
+
+----
+
+**Problem 12**
+
+The graph of $y = 4^{x+2}$ can be obtained from the graph of $y = 4^x$ by shifting $2$ unit to the left. 
+
+| $y = 4^x$                 |                              | $y = 4^{x+2}$               |
+| ------------------------- | :--------------------------: | --------------------------- |
+| ![](_media/graph12-0.png) |  $\uparrow 1 \\ \implies$    | ![](_media/graph12-1.png)   | 
+
+----
+
+**Problem 13**
+
+The graph of $y = 1 - \frac{1}{2}e^{-x}$ can be obtained from problem 11 $y =-e^{-x}$ by shrinking vertically by a factor of $2$ and then shifting $1$ unit upward.
+
+| $y = -e^{-x}$     |                              | $y = -\frac{1}{2}e^{-x}$    |        | $y = 1-\frac{1}{2}e^{-x}$        |
+| ------------------------- | :--------------------------: | ------------------------- | :----: | ----------- |
+| ![](_media/graph11-2.png) |  $_\uparrow^\downarrow 2 \\ \implies$  | ![](_media/graph13-1.png) | $ \uparrow 1 \\ \implies$ | ![](_media/graph13-2.png)    |
+
+----
+
+**Problem 14**
+
+The graph of $y = e^{|x|}$ can be obtained from the graph of $y = e^x$ by reflecting the graph right the $y$-axis about the $y$-axis. 
+. 
+
+| $y = 4^x$                 |                              | $y = 4^{x+2}$               |
+| ------------------------- | :--------------------------: | --------------------------- |
+| ![](_media/graph14-0.png) |  $\leftharpoonup \\ \implies$    | ![](_media/graph14-1.png)   | 
 
 
 </div>

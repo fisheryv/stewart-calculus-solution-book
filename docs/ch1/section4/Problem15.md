@@ -18,6 +18,14 @@ Starting with the graph of $y = e^x$, write the equation of the graph that resul
 <div class="alert alert-success" role="alert">
 <h4 class="alert-heading">Solution</h4>
 
+1. $y = e^x + 2$
 
+2. $y = e^{x-2}$
+
+3. $y = -e^x$
+
+4. $y = e^{-x}$
+
+5. $y = -e^{-x}$
 
 </div>

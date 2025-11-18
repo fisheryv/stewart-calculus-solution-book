@@ -1,8 +1,6 @@
 <div class="alert alert-warning" role="alert">
 <h4 class="alert-heading">Problem 3</h4>
 
-Use the Laws of Exponents to rewrite and simplify each expression.
-
 1. Write an equation that defines the exponential function with base $b > 0$.
 
 2. What is the domain of this function?
@@ -19,6 +17,12 @@ Use the Laws of Exponents to rewrite and simplify each expression.
 <div class="alert alert-success" role="alert">
 <h4 class="alert-heading">Solution</h4>
 
+1. $f(x) = b^x$, where $b > 0$.
 
+2. The domain of this function is $\mathbb{R}$.
+
+3. If $b \ne 1$, the range of this function is $(0, \infty)$.
+
+4. ![](_media/graph3.png ':class=img-center')
 
 </div>

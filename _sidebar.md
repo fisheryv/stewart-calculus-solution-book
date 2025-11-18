@@ -1,5 +1,5 @@
 - [🏠 Home](/README.md)
-- [Exercises with Issue](/docs/exercises-with-issue/collection.md)
+- [🗃️ Exercises with Issue](/docs/exercises-with-issue/collection.md)
 - Ch 1. Functions and Models
     - Section 1.1
         - [Problem 1](/docs/ch1/section1/Problem1.md)

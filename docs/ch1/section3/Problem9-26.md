@@ -233,7 +233,7 @@ The graph of $y = \frac{1}{4} \tan \Big(x - \frac{\pi}{4}\Big)$ can be obtained 
 
 **Problem 25**
 
-The graph of $y = | \cos \pi x |$ can be obtained from the graph of $y = \cos x$ by shrinking horizontally by a factor of $\pi$ and then reflecting the graph below the x-axis the $x$-axis. 
+The graph of $y = | \cos \pi x |$ can be obtained from the graph of $y = \cos x$ by shrinking horizontally by a factor of $\pi$ and then reflecting the graph below the $x$-axis about the $x$-axis. 
 
 | $y = \cos x$              |                              | $y = \cos \pi x$          |        | $y = \vert \cos \pi x \vert$ |
 | ------------------------- | :--------------------------: | ------------------------- | :----: | ----------- |
@@ -243,7 +243,7 @@ The graph of $y = | \cos \pi x |$ can be obtained from the graph of $y = \cos x$
 
 **Problem 26**
 
-The graph of $y = | \sqrt{x} - 1 |$ can be obtained from the graph of $y = \sqrt{x}$ by shifting  $1$ unit downward and then reflecting the graph below the x-axis the $x$-axis. 
+The graph of $y = | \sqrt{x} - 1 |$ can be obtained from the graph of $y = \sqrt{x}$ by shifting $1$ unit downward and then reflecting the graph below the $x$-axis about the $x$-axis. 
 
 | $y = \sqrt{x}$            |                              | $y = \sqrt{x} - 1$        |        | $y = \vert \sqrt{x} - 1 \vert$ |
 | ------------------------- | :--------------------------: | ------------------------- | :----: | ----------- |
